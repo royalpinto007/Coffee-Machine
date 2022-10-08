@@ -31,4 +31,4 @@ kotlinc src/file/Coffee-Machine.kt -include-runtime -d Coffee-Machine.jar
 [openjdk-14]: http://jdk.java.net/14/
 [kotlinc]: https://github.com/JetBrains/kotlin/releases/latest
 [hyperskill]: https://hyperskill.org/projects/196
-[release]: https://github.com/royalpinto007/Coffee-MAchine/releases
+[release]: https://github.com/royalpinto007/Coffee-Machine/releases
